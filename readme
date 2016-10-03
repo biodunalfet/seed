@@ -1,0 +1,2 @@
+# seed
+A simple Django app that stores names and email addresses in an sqlite database
